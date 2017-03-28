@@ -1,0 +1,9 @@
+C:\vbnet\kex.dll
+C:\vbnet\kex.pdb
+D:\C-Projekte\kex\kex\obj\Debug\kex.csprojResolveAssemblyReference.cache
+D:\C-Projekte\kex\kex\obj\Debug\kex.KexControl1.resources
+D:\C-Projekte\kex\kex\obj\Debug\kex.Properties.Resources.resources
+D:\C-Projekte\kex\kex\obj\Debug\kex.csproj.GenerateResource.Cache
+D:\C-Projekte\kex\kex\obj\Debug\kex.dll
+D:\C-Projekte\kex\kex\obj\Debug\kex.pdb
+C:\vbnet\kex.dll.config
